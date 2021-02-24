@@ -17,7 +17,7 @@ EOMS自动接单工具，用于投诉工单的自动接单和预分派，提升�
 
 ## 运行环境
 请安装python 3.6 运行此项目
-- [Python 3.8](https://www.python.org/)
+- [Python 3.6](https://www.python.org/)
 
 ## 第三方库
 - 需要使用到的库已经放在requirements.txt，使用pip安装的可以使用指令  
